@@ -178,3 +178,6 @@ if __name__ == "__main__":
                                .start())
 
             streaming_query.awaitTermination()
+
+
+print('ended')
